@@ -1,0 +1,7 @@
+https://www.dafont.com/typo3.font
+Make text completely black (remove transparency)
+Add outline (4p)
+Color inside: Light Grey C0C0C0
+Color outline: Black 000000
+Scale to 45%
+Set vertical size to 63.
